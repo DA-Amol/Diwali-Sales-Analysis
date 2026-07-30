@@ -2,7 +2,7 @@
 
 An end-to-end Exploratory Data Analysis (EDA) project built using Python to uncover customer purchasing behavior during the Diwali festive season. This project analyzes customer demographics, geographical trends, occupations, product categories, and product performance to identify high-value customer segments and support data-driven business decisions.
 
-# 🔗 Dashboard Preview
+# 🔗 Report Preview
 ![Diwali Sales Analysis Report](https://github.com/DA-Amol/Diwali-Sales-Analysis/blob/main/Diwali_Sales_Analysis_Report.png)
 🎯 Project Objective
 
@@ -14,47 +14,47 @@ This project performs Exploratory Data Analysis (EDA) on Diwali sales data using
 
 # 📊 Analysis Covered
 
-👥 1. Gender Analysis
+## 👥 1. Gender Analysis
 
 Customer Distribution by Gender
 
 Revenue by Gender
 
-🎂 2. Age Analysis
+## 🎂 2. Age Analysis
 
 Customer Distribution by Age & Gender
 
 Revenue by Age Group
 
-💍 3. Marital Status Analysis
+## 💍 3. Marital Status Analysis
 
 Marital Status Distribution
 
 Revenue by Marital Status & Gender
 
-📍 4. Geographical (State) Analysis
+## 📍 4. Geographical (State) Analysis
 
 Revenue by State
 
 Orders by State
 
-💼 5. Occupation Analysis
+## 💼 5. Occupation Analysis
 
 Customer Distribution by Occupation
 
 Revenue by Occupation
 
-📦 6. Product Category Analysis
+## 📦 6. Product Category Analysis
 
 Orders by Product Category
 
 Revenue by Product Category
 
-⭐ 7. Product Performance Analysis
+## ⭐ 7. Product Performance Analysis
 
 Top Selling Products by Orders
 
-🧠 Key Business Questions Answered
+# 🧠 Key Business Questions Answered
 
 Which gender contributes the highest sales?
 
@@ -73,33 +73,33 @@ Which individual products receive the highest number of orders?
 
 # 📈 Key Insights
 
-👥 Gender Analysis
+## 👥 Gender Analysis
 
 Female customers account for the majority of purchases.
 
 Women contribute significantly more revenue than men.
 
-🎂 Age Analysis
+## 🎂 Age Analysis
 
 Customers aged 26–35 years generate the highest sales.
 
 Female customers in this age group are the most active buyers.
 
-💍 Marital Status Analysis
+## 💍 Marital Status Analysis
 
 Married women contribute the highest purchasing power.
 
 Married customers represent a large share of total revenue.
 
-📍 Geographical Analysis
+## 📍 Geographical Analysis
 
 Uttar Pradesh, Maharashtra, and Karnataka generate the highest sales and order volumes.
 
-💼 Occupation Analysis
+## 💼 Occupation Analysis
 
 Customers working in the IT, Healthcare, and Aviation sectors contribute the highest revenue.
 
-📦 Product Category Analysis
+## 📦 Product Category Analysis
 
 Food
 
@@ -109,11 +109,11 @@ Electronics
 
 These categories generate the highest sales and order volumes.
 
-⭐ Product Performance Analysis
+## ⭐ Product Performance Analysis
 
 Product ID: P00265242 is the highest-selling product based on order count.
 
-🎯 Final Business Conclusion
+# 🎯 Final Business Conclusion
 
 The analysis indicates that the most valuable customer segment consists of:
 
@@ -127,7 +127,7 @@ The analysis indicates that the most valuable customer segment consists of:
 
 🛍️ Primarily purchasing products from Food, Clothing & Apparel, and Electronics categories.
 
-These insights can help businesses optimize:
+## These insights can help businesses optimize:
 
 Targeted marketing campaigns
 
@@ -141,7 +141,7 @@ Regional sales strategies
 
 Customer segmentation
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python
 
