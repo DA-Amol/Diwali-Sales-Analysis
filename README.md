@@ -1,21 +1,18 @@
-# Diwali-Sales-Analysis
-Python-based EDA project analyzing Diwali sales data to uncover customer purchasing behavior across gender, age, marital status, state, occupation, and product categories. Leveraged Pandas, NumPy, Matplotlib, and Seaborn to generate actionable business insights through interactive visualizations and data storytelling.
-
-📊 Diwali Sales Analysis Report (Python)
+# 📊 Diwali Sales Analysis Report (Python)
 
 An end-to-end Exploratory Data Analysis (EDA) project built using Python to uncover customer purchasing behavior during the Diwali festive season. This project analyzes customer demographics, geographical trends, occupations, product categories, and product performance to identify high-value customer segments and support data-driven business decisions.
 
-🔗 Dashboard Preview
+# 🔗 Dashboard Preview
 ![Diwali Sales Analysis Report](https://github.com/DA-Amol/Diwali-Sales-Analysis/blob/main/Diwali_Sales_Analysis_Report.png)
 🎯 Project Objective
 
 To analyze Diwali sales data using Python and identify key customer segments, buying patterns, and product trends that can help businesses improve marketing strategies, inventory planning, and customer targeting.
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on Diwali sales data using Python libraries to transform raw transactional data into meaningful business insights through data visualization.
 
-📊 Analysis Covered
+# 📊 Analysis Covered
 👥 1. Gender Analysis
 Customer Distribution by Gender
 Revenue by Gender
@@ -44,7 +41,8 @@ Which states generate the highest sales?
 Which occupations contribute the most revenue?
 Which product categories perform the best?
 Which individual products receive the highest number of orders?
-📈 Key Insights
+
+# 📈 Key Insights
 👥 Gender Analysis
 Female customers account for the majority of purchases.
 Women contribute significantly more revenue than men.
@@ -92,7 +90,8 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-🔍 Skills Demonstrated
+
+# 🔍 Skills Demonstrated
 Data Cleaning
 Exploratory Data Analysis (EDA)
 Data Visualization
@@ -104,7 +103,7 @@ Python Programming
 Business Storytelling
 Insight Generation
 
-👤 Author
+# 👤 Author
 
 Amol Thakur
 Business Data Analyst | MBA (Business Analytics)
